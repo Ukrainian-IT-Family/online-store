@@ -1,4 +1,4 @@
-#Online Store Application
+# Online Store Application
 
 These are sketches of a very simple online store written using Vue and Laravel.
 
